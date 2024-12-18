@@ -1,0 +1,14 @@
+.Container{
+    height: 90px;
+
+}
+
+.ContainerDark{
+
+    background-color: rgb(27, 26, 26);
+    color: white;
+}
+.ContainerLight{
+    background-color: rgb(241, 228, 228);
+    color: black;
+}
